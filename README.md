@@ -40,15 +40,15 @@ If you don't have Homebrew installed, open Terminal and run:
 
 Follow the on-screen instructions. After installation, you may need to add Homebrew to your PATH. The installer will provide instructions specific to your Mac.
 
-### Step 2: Install MAME (includes chdman)
+### Step 2: Install rom-tools (includes chdman)
 
-Once Homebrew is installed, install MAME which includes chdman:
+Once Homebrew is installed, install rom-tools which includes chdman:
 
 ```bash
-brew install mame
+brew install rom-tools
 ```
 
-This will download and install MAME along with all its command-line tools, including chdman.
+This will download and install rom-tools along with chdman and other ROM management utilities.
 
 ### Step 3: Verify Installation
 
