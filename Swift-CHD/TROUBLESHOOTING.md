@@ -39,7 +39,7 @@ Add `CHDMan_Mac_GUI.entitlements` to your project:
 which chdman
 
 # If not found, install via Homebrew
-brew install mame
+brew install rom-tools
 
 # Verify installation
 /opt/homebrew/bin/chdman --version  # Apple Silicon
